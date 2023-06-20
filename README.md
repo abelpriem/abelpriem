@@ -1,14 +1,23 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <h1><p style="text-align:center">My Github Profile</p></h1>
+ <h1 align="center">Hi 👋,   I'm Abel Prieto! </h1>
   
-  <h2>About ME</h2>
+  <h2>Profile 🧑‍💻</h2>
  
   <p>Hi! I'm Abel and I'm 29 years old. A tech-enthusiast in process of development within the technological world through IT Support and web development, seeking opportunities to apply my skills and my knowlech like Junior Full-Stack and grow as a professional in the tech field soon.
 
-I consider myself a methodical person who enjoys working in a team; optimistic, dynamic and analytical capacity to overcome any situation.</p>
-  
+I consider myself a methodical person who enjoys working in a team; optimistic, dynamic and analytical capacity to overcome any situation.
 
+- 👨‍💻 On September 2023, I will start a new stage by taking the **Junior Full-Stack Bootcamp** at the great **ISDI CODERS** digital school.
+
+- 📋 I’m currently learning: **HTML5, CSS / SCSS, JavaScript**
+  
+- 📫 How to reach me: **abelpriem94@hotmail.com**</p>
+  
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/abel-prieto-mart%C3%ADn-050b75b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abel-prieto-mart%C3%ADn-050b75b8/" height="30" width="40" /></a>
+  
 </body>
 </html>
