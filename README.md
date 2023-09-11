@@ -9,7 +9,7 @@
 
 I consider myself a methodical person who enjoys working in a team; optimistic, dynamic and analytical capacity to overcome any situation.
 
-- 👨‍💻 On September 2023, I will start a new stage by taking the **Junior Full-Stack Bootcamp** at the great **ISDI CODERS** digital school.
+- 👨‍💻 Actually in September 2023, I'm beginning a new stage by taking the **Junior Full-Stack Bootcamp** at the great **ISDI CODERS** digital school.
 
 - 📋 I’m currently learning: **HTML5, CSS / SCSS, JavaScript**
   
