@@ -1,20 +1,27 @@
 <!DOCTYPE html>
 <html>
 <body>
- <h1 align="center">Hi 👋,   I'm Abel Prieto! </h1>
+ <h1 align="center">¡Welcome to my GitHub Profile! 👋</h1>
   
-  <h2>Profile 🧑‍💻</h2>
+  <h2>About me 🧑‍💻</h2>
  
-  <p>Hi! I'm Abel and I'm 29 years old. A tech-enthusiast in process of development within the technological world through IT Support and web development, seeking opportunities to apply my skills and my knowlech like Junior Full-Stack and grow as a professional in the tech field soon.
+  <p>Hi! I'm Abel and I'm 29 years old. A tech-enthusiast in process of development within the technological world and web development, seeking opportunities to apply my skills and my knowlech like Junior Full-Stack and grow as a professional in the tech field.
 
-I consider myself a methodical person who enjoys working in a team; optimistic, dynamic and analytical capacity to overcome any situation.
+I consider myself as a methodical person who enjoys working in a team; optimistic, dynamic and with analytical capacity to overcome any situation.
+My goal is to become a highly competent Full-Stack developer and, along the way, collaborate on exciting projects that drive technology forward.
 
-- 👨‍💻 Actually in September 2023, I'm beginning a new stage by taking the **Junior Full-Stack Bootcamp** at the great **ISDI CODERS** digital school.
+If you are looking for someone with energy, commitment and an excessive passion for technology, you are in the right place!
+
+Let's build something amazing together! 🚀</p>
+<br>
+
+- 👨‍💻 Currently and since September 2023, I'm beginning a new stage by taking the **Junior Full-Stack Bootcamp** at the great **ISDI CODERS** Digital School (Madrid, Spain).
 
 - 📋 I’m currently learning: **HTML5, CSS / SCSS, JavaScript**
   
-- 📫 How to reach me: **abelpriem94@hotmail.com**</p>
-  
+- 📫 How to reach me: **abelpriem94@hotmail.com**
+
+<br>
  <h3 align="left">Connect with me: 🌐 </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abel-prieto-mart%C3%ADn-050b75b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abel-prieto-mart%C3%ADn-050b75b8/" height="30" width="40" /></a>
