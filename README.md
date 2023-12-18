@@ -30,7 +30,7 @@ If you are looking for someone with energy, commitment and an excessive passion 
 
 - 👨‍💻 Currently and since September 2023, I'm beginning a new stage by taking the **Junior Full-Stack Bootcamp** at the great **ISDI CODERS** Digital School (Madrid, Spain).
 
-- 📋 I’m currently learning: **HTML5, CSS / SCSS, JavaScript**
+- 📋 I’m currently learning: **HTM5 & CSS | SASS | JavaScript | React | NodeJS | Express | MongoDB**
   
 - 📫 How to reach me: **abelpriem94@hotmail.com**
 
