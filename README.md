@@ -16,6 +16,7 @@
         "@analytical",
         "@dynamic and communicative",
         "@optimist and patience",
+        "@agile method",
     ],
     "education": "ISDI CODERS Tech College (Madrid)",
     "location": "Valladolid, Spain (ES)",
@@ -30,7 +31,7 @@ If you are looking for someone with energy, commitment and an excessive passion 
 
 - 👨‍💻 Currently and since September 2023, I'm beginning a new stage by taking the **Junior Full-Stack Bootcamp** at the great **ISDI CODERS** Digital School (Madrid, Spain).
 
-- 📋 I’m currently learning: **HTM5 & CSS | SASS | JavaScript | React | Vite | NodeJS | Express | MongoDB**
+- 📋 I’m currently learning: **HTM5 & CSS | SASS | JavaScript | React | Vite | NodeJS | Express | MongoDB & Mongoose**
   
 - 📫 How to reach me: **abelpriem94@hotmail.com**
 
