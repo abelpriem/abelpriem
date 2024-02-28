@@ -23,15 +23,15 @@
 }
 ```
 
-A tech-enthusiast in process of development within the technological world and web development, seeking opportunities to apply my skills and my knowlech like Junior Full-Stack and grow as a professional in the tech field.
+A tech-enthusiast in process of development within the technological world and web development, seeking opportunities to apply my skills and my knowlech like Full-Stack Developer and grow as a professional in the tech field.
 
 My goal is to become a highly competent Full-Stack developer and, along the way, collaborate on exciting projects that drive technology forward.
 
 If you are looking for someone with energy, commitment and an excessive passion for technology, you are in the right place!
 
-- 👨‍💻 Currently and since September 2023, I'm beginning a new stage by taking the **Junior Full-Stack Bootcamp** at the great **ISDI CODERS** Digital School (Madrid, Spain).
+- 👨‍💻 Since September 2023 and until today, I begin a big change in my professional career by doing the **Developer Full-Stack Bootcamp** at the great Digital School **ISDI CODERS** (Madrid, Spain).
 
-- 📋 I’m currently learning: **HTM5 & CSS | SASS | JavaScript | React | Vite | NodeJS | Express | MongoDB & Mongoose**
+- 📋 My current stack and growing: <br /> **HTM5 & CSS | SASS | JavaScript | React | Vite | NodeJS | Express | MongoDB & Mongoose | Testing | Figma | Agile Method**
   
 - 📫 How to reach me: **abelpriem94@hotmail.com**
 
