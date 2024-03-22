@@ -2,6 +2,8 @@
 <html>
 <body>
  <h1 align="center">¡Welcome to my GitHub Profile! 👋</h1>
+
+ <img style="float: left;" src="https://komarev.com/ghpvc/?username=AbelPucela94&label=Profile%20views&color=0e75b6&style=flat" alt="AbelPucela94´s views" />
   
   <h2>About me 🧑‍💻</h2>
 
