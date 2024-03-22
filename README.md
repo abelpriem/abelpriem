@@ -32,12 +32,13 @@ If you are looking for someone with energy, commitment and an excessive passion 
 
 - 👨‍💻 Since September 2023 and until today, I begin a big change in my professional career by doing the **Developer Full-Stack Bootcamp** at the great Digital School **ISDI CODERS** (Madrid, Spain).
 
-- 📋 My current stack and growing: <br /> **HTM5 & CSS | SASS | JavaScript | React | Vite | NodeJS | Express | MongoDB & Mongoose | Mocha | JEST | Figma | Agile Method**
+- ✅ My current stack and growing: <br /> **HTM5 & CSS | SASS | JavaScript | React | Vite | NodeJS | Express | MongoDB & Mongoose | Mocha | JEST | Figma | Agile Method**
   
-- 📫 How to reach me: **abelpriem94@hotmail.com**
+- 📋 **Download CV:** <a href="https://drive.google.com/file/d/1kVwztNSqgXkHPtwj9_xezMryZDqs807s/view?usp=sharing">Spanish</a></p>
 
-- 📫 Download CV: <a href="https://drive.google.com/file/d/1kVwztNSqgXkHPtwj9_xezMryZDqs807s/view?usp=sharing">Spanish</a></p>
+- ✉ How to reach me: **abelpriem94@hotmail.com**
 
+<br />
 
 Let's build something amazing together! 🚀</p>
 
@@ -46,12 +47,10 @@ Let's build something amazing together! 🚀</p>
  <a href="https://www.masknether@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Abel Gmail" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abel-prieto-mart%C3%ADn-050b75b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abel-prieto-mart%C3%ADn-050b75b8/" height="30" width="40" /></a>
 
-  <h3 align="left">Languages:</h3>
+  <h3 align="left">Languages and Tools:</h3>
   <p align="left">
    
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,vite,nodejs,express,mongodb,jest)](https://skillicons.dev)
-
-  <h3 align="left">Other Tools:</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,discord,bash,npm,linux,stackoverflow)](https://skillicons.dev)
 
