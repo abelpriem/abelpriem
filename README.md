@@ -36,7 +36,7 @@ If you are looking for someone with energy, commitment and an excessive passion 
 
 - ✅ My current stack and growing: <br /> **HTM5 & CSS | SASS | JavaScript | React | Vite | NodeJS | Express | MongoDB & Mongoose | Mocha | JEST | Figma | Agile Method**
   
-- 📋 **Download CV:** <a href="https://drive.google.com/file/d/1kVwztNSqgXkHPtwj9_xezMryZDqs807s/view?usp=sharing">Spanish</a></p>
+- 📋 **Download CV:** <a href="https://drive.google.com/file/d/1TRf7HRM7pM7FNBMQJoClNChsJ2VRhRDU/view?usp=drive_link">Spanish</a></p>
 
 - ✉ How to reach me: **abelpriem94@hotmail.com**
 
