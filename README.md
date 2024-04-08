@@ -49,7 +49,7 @@ Let's build something amazing together! 🚀</p>
  <a href="https://www.masknether@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Abel Gmail" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abelprietomartin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abel-prieto-mart%C3%ADn-050b75b8/" height="30" width="40" /></a>
 
-  <h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">Languages and Tools: ⚙</h3>
   <p align="left">
    
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,vite,nodejs,express,mongodb,jest)](https://skillicons.dev)
