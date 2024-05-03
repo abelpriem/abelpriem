@@ -54,7 +54,7 @@ Let's build something amazing together! 🚀</p>
    
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,vite,nodejs,express,mongodb,jest)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,discord,bash,npm,linux,stackoverflow)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,netlify,vercel,git,github,vscode,figma,discord,bash,npm,linux,stackoverflow)](https://skillicons.dev)
 
 </body>
 </html>
