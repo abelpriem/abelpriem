@@ -22,7 +22,7 @@
         "@agile method",
     ],
     "education": "ISDI CODERS Tech College (Madrid)",
-    "location": "Valladolid, Spain (ES)",
+    "location": "Gijón, Spain (ES)",
 }
 ```
 
