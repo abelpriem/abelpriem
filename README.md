@@ -34,9 +34,11 @@ If you are looking for someone with energy, commitment and an excessive passion 
 
 - 👨‍💻 Since September 2023 and until today, I begin a big change in my professional career by doing the **Developer Full-Stack Bootcamp** at the great Digital School **ISDI CODERS** (Madrid, Spain).
 
-- ✅ My current stack and growing: <br /> **HTM5 & CSS | SASS | JavaScript | React | Vite | NodeJS | Express | MongoDB & Mongoose | Mocha | JEST | Figma | Agile Method**
+- ✅ My current stack and growing: <br /> **HTM5 & CSS | SASS | JavaScript | React | Astro | Vite | NodeJS | Express | MongoDB & Mongoose | Tailwind | Mocha | JEST | Figma | Agile Method**
   
 - 📋 **Download CV:** <a href="https://drive.google.com/file/d/1TRf7HRM7pM7FNBMQJoClNChsJ2VRhRDU/view?usp=drive_link">Spanish</a></p>
+
+- **Porfolio:** <a href="https://portfolio-abelprieto-fullstack.netlify.app/#top">Porfolio Full Stack Developer - Abel Prieto
 
 - ✉ How to reach me: **abelpriem94@hotmail.com**
 
@@ -52,7 +54,7 @@ Let's build something amazing together! 🚀</p>
   <h3 align="left">Languages and Tools: ⚙</h3>
   <p align="left">
    
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,vite,nodejs,express,mongodb,jest)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,sass,tailwind,vite,nodejs,express,mongodb,jest)](https://skillicons.dev)
 
   [![My Skills](https://skillicons.dev/icons?i=aws,netlify,vercel,git,github,vscode,figma,discord,bash,npm,linux,stackoverflow)](https://skillicons.dev)
 
