@@ -38,7 +38,7 @@ If you are looking for someone with energy, commitment and an excessive passion 
   
 - 📋 **Download CV:** <a href="https://drive.google.com/file/d/1TRf7HRM7pM7FNBMQJoClNChsJ2VRhRDU/view?usp=drive_link">Spanish</a></p>
 
-- **Porfolio:** <a href="https://portfolio-abelprieto-fullstack.netlify.app/#top">Porfolio Full Stack Developer - Abel Prieto
+- 🌐 **Porfolio:** <a href="https://portfolio-abelprieto-fullstack.netlify.app/#top">Porfolio Full Stack Developer - Abel Prieto
 
 - ✉ How to reach me: **abelpriem94@hotmail.com**
 
@@ -46,7 +46,7 @@ If you are looking for someone with energy, commitment and an excessive passion 
 
 Let's build something amazing together! 🚀</p>
 
- <h3 align="left">Connect with me: 🌐 </h3>
+ <h3 align="left">Connect with me: 💬 </h3>
 <p align="left">
  <a href="https://www.masknether@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Abel Gmail" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abelprietomartin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abel-prieto-mart%C3%ADn-050b75b8/" height="30" width="40" /></a>
