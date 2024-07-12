@@ -54,9 +54,9 @@ Let's build something amazing together! 🚀</p>
   <h3 align="left">Languages and Tools: ⚙</h3>
   <p align="left">
    
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,sass,vite,nodejs,express,mongodb,jest)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,sass,vite,nodejs,express,mongodb,mysql,jest)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=aws,netlify,vercel,git,github,vscode,figma,discord,bash,npm,linux,stackoverflow)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,netlify,vercel,git,github,vscode,figma,discord,bash,npm,linux,stackoverflow,postman,tableplus)](https://skillicons.dev)
 
 </body>
 </html>
