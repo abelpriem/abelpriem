@@ -34,7 +34,7 @@ If you are looking for someone with energy, commitment and an excessive passion 
 
 - 👨‍💻 Since September 2023 and until today, I begin a big change in my professional career by doing the **Developer Full-Stack Bootcamp** at the great Digital School **ISDI CODERS** (Madrid, Spain).
 
-- ✅ My current stack and growing: <br /> **HTM5 & CSS | SASS | JavaScript | React | Astro | Vite | NodeJS | Express | MongoDB & Mongoose | Tailwind | Mocha | JEST | Figma | Agile Method**
+- ✅ My current stack and growing: <br /> **HTM5 & CSS | SASS | JavaScript | React | Astro | Vite | NodeJS | Express | MongoDB & Mongoose | MySQL | PUG | Tailwind | Mocha | JEST | Figma | Agile Method**
   
 - 📋 **Download CV:** <a href="https://drive.google.com/file/d/1TRf7HRM7pM7FNBMQJoClNChsJ2VRhRDU/view?usp=drive_link">Spanish</a></p>
 
