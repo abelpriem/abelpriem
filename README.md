@@ -12,7 +12,7 @@
 
 ```json
 {
-    "ref": "Full Stack Developer",
+    "ref": "Full Stack Developer || Back End Developer",
     "pronouns": "he/his",
     "soft_skills": [
         "@great team work", 
@@ -21,7 +21,10 @@
         "@optimist and patience",
         "@agile method",
     ],
-    "education": "ISDI CODERS Tech College (Madrid)",
+    "education": [
+        "ISDI CODERS Tech College (Madrid)", 
+        "Factoría F5 (Gijón)",
+    ],
     "location": "Gijón, Spain (ES)",
 }
 ```
@@ -32,9 +35,9 @@ My goal is to become a highly competent Full-Stack developer and, along the way,
 
 If you are looking for someone with energy, commitment and an excessive passion for technology, you are in the right place!
 
-- 👨‍💻 Since September 2023 and until today, I begin a big change in my professional career by doing the **Developer Full-Stack Bootcamp** at the great Digital School **ISDI CODERS** (Madrid, Spain).
+- 👨‍💻 On September 2023 and until today, I begin a big change in my professional career by doing the **Developer Full-Stack Bootcamp** at the great Digital School **ISDI CODERS** and now, immersed in **Back-End Development** with the **Factoría F5 School** .
 
-- ✅ My current stack and growing: <br /> **HTM5 & CSS | SASS | JavaScript | React | Astro | Vite | NodeJS | Express | MongoDB & Mongoose | MySQL | PUG | Tailwind | Mocha | JEST | Figma | Agile Method**
+- ✅ My current stack and growing: <br /> **HTM5 & CSS | SASS | Java | JavaScript | React | Astro | Vite | NodeJS | Express | MongoDB & Mongoose | MySQL | PUG | Tailwind | Mocha | JEST | Figma | Agile Method**
   
 - 📋 **Download CV:** <a href="https://drive.google.com/file/d/1TRf7HRM7pM7FNBMQJoClNChsJ2VRhRDU/view?usp=drive_link">Spanish</a></p>
 
@@ -54,7 +57,7 @@ Let's build something amazing together! 🚀</p>
   <h3 align="left">Languages and Tools: ⚙</h3>
   <p align="left">
    
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,sass,vite,nodejs,express,mongodb,mysql,jest)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,react,astro,tailwind,sass,vite,nodejs,express,mongodb,mysql,jest)](https://skillicons.dev)
 
   [![My Skills](https://skillicons.dev/icons?i=aws,netlify,vercel,git,github,vscode,figma,discord,bash,npm,linux,stackoverflow,postman,tableplus)](https://skillicons.dev)
 
