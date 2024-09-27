@@ -35,7 +35,7 @@ My goal is to become a highly competent Full-Stack developer and, along the way,
 
 If you are looking for someone with energy, commitment and an excessive passion for technology, you are in the right place!
 
-- 👨‍💻 On September 2023 and until today, I begin a big change in my professional career by doing the **Developer Full-Stack Bootcamp** at the great Digital School **ISDI CODERS** and now, immersed in **Back-End Development** with the **Factoría F5 School** .
+- 👨‍💻 On September 2023 and until today, I begin a big change in my professional career by doing the **Developer Full-Stack Bootcamp** at the great Digital School **ISDI CODERS** (Madrid, Spain) and now, immersed in **Back-End Development** with the **Factoría F5 School** (Gijón, Spain).
 
 - ✅ My current stack and growing: <br /> **HTM5 & CSS | SASS | Java | JavaScript | React | Astro | Vite | NodeJS | Express | MongoDB & Mongoose | MySQL | PUG | Tailwind | Mocha | JEST | Figma | Agile Method**
   
