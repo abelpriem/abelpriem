@@ -25,7 +25,7 @@
         "ISDI CODERS Tech College (Madrid)", 
         "Factoría F5 (Gijón)",
     ],
-    "location": "Gijón, Spain (ES)",
+    "location": "Valladolid, Spain (ES)",
 }
 ```
 
